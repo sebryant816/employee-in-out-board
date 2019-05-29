@@ -6,10 +6,7 @@
 /*********************************************
 | Database Credentials
 *********************************************/
-$servername = "localhost";
-$username = "jaxcode83";
-$password = "Ducks0up";
-$dbname = "jaxcode83";
+
 // end
 
 
@@ -247,11 +244,6 @@ if (mysqli_num_rows($result) > 0) {
 
       <? } ?>
 
-
-
-
-
-
 <?
     }
 } else {
@@ -263,13 +255,4 @@ mysqli_close($conn);
 }
 // end
 
-
-
-
 ?>
-
-
-
-
-
-
