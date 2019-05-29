@@ -80,12 +80,6 @@
 
   <?php
 
-        $servername = "localhost";
-        $username = "jaxcode83";
-        $password = "Ducks0up";
-        $dbname = "jaxcode83";
-
-
   // Code to Change Message
 
             if(isset($_POST['message']))  {
